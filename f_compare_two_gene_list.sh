@@ -19,7 +19,7 @@ function f_compare_two_gene_list {
 
      # genes Overlapping
      	grep -f file1_sorted_tmp file2_sorted_tmp | sort -u > "Genes-Overlapping-$str.txt";
-		awk 'END{print NR}' "Genes-Overlapping-$str.txt" > "Num-Genes-Overlapping-$str.txt"
+		awk 'END{print NR}' "Genes-Overlapping-$str.txt" > "Num-Genes-Overlapping-$str.txt";
 
      # in list1 not list 2
      	# diff -f "Genes-Overlapping-$str.txt" file1_sorted_tmp > tmp
