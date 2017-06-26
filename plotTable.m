@@ -1,4 +1,5 @@
 function [ fig, ngene, expr, agis ] = plotTable( csv, isVariableNames )
+% [ fig, ngene, expr, agis ] = plotTable( csv, isVariableNames )
 % fig - figure of profiles in csv file
 % ngene - # of genes in the file
 % expr - profiles of genes in RPKM at each time point
