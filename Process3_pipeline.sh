@@ -60,6 +60,9 @@ cat all.down > all-down.txt
 f_compare_two_gene_list "ANan-Gene-list-DEG-down-regulated.txt" "all-down.txt"
 rm all-down.txt
 
+# extract profiles of DEGs.
+grep -f ANan-Gene-list-DEG.txt kat-rpkm-expression.csv > Profiles-ANan-DEGs.csv
+
 # extract profiles of up and down regulated genes.
 grep -f ANan-Gene-list-DEG-up-regulated.txt kat-rpkm-expression.csv > Profiles-ANan-up-regulated.csv
 grep -f ANan-Gene-list-DEG-down-regulated.txt kat-rpkm-expression.csv > Profiles-ANan-down-regulated.csv
