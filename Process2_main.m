@@ -1,19 +1,24 @@
-%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % @CopyRight Haonan Tong
 % PGRP
-% Verify Gene Set EIN3-R
-%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%
+% Derive DEGs based on Data given by Chang's paper
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 T = readtable('kat-rpkm-expression.csv',...
-     'ReadVariableNames',true);
+     'ReadVariableNames',true,'ReadRowNames',true);
 % summary(T);
-Data = table2array(T(:,2:end));
-name = table2array(T(:,1));
+Data = table2array(T);
+name = T.Properties.RowNames;
 
+fileID = fopen('result.txt','w'); % Result and Processing Information
+
+fprintf(fileID,  '--------------------------------------------------\n');
+fprintf(fileID,  'Start Calculating ... \n');
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % T-test Table
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+fprintf(fileID,  'T-testing for each time point v.s. initial time point ... \n');
 T0 = Data(:,1:3)';
 T1 = Data(:,4:6)';
 T2 = Data(:,7:9)';
@@ -54,6 +59,9 @@ newData = 1/3*newData;
 % rpkm > 1 as a condition of
 % significantly expressed
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+fprintf(fileID,  'Calculating genes that significantly expressed... \n');
+
+
 SEMatrix = newData > 1;
 [m,n] = size(SEMatrix);
 tmp = [];
@@ -65,6 +73,7 @@ SEMatrix = tmp;
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % the 50% difference as NC
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+fprintf(fileID,  'Calculating genes that fifty percent differently expressed compared with initial time point... \n');
 DEMatrix = log2(newData./repmat(newData(:,1),1,size(newData,2)));
 DEMatrix_abs = abs(log2(newData./repmat(newData(:,1),1,size(newData,2))));
 DEMatrix_abs = DEMatrix_abs(:,2:end);
@@ -73,7 +82,11 @@ DEtable = DEMatrix_abs >= 0.58;
 DE_table = array2table(DEMatrix_abs,'VariableNames',{'r1','r2','r3','r4','r5','r6'},'RowNames',...
     name);
 writetable( DE_table, 'TABLE_DE_table.csv','WriteRowNames',true);
+fprintf(fileID,  '--------------------------------------------------\n');
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+fprintf(fileID,  '--------------------------------------------------\n');
+fprintf(fileID,  'Start Analyzing ... \n');
 %go up and go down
 DE_up_table = DEMatrix(:,2:end) > 0;
 DE_down_table = DEMatrix(:,2:end) < 0;
@@ -86,27 +99,64 @@ indx = sum(GroundtruthTable , 2) > 0;% log2(1.5) = 0.58
 indx_up = sum(GroundtruthTable_up,2)>0;
 indx_down =sum(GroundtruthTable_down,2)>0;
 
+ng_DEGs = sum(indx);
+fprintf(fileID,  'Totally %4d genes differentially expressed ... \n', ng_DEGs);
+fprintf(fileID,  '--------------------------------------------------\n');
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Output gene list
+%% Analysis genes go up at each time periods
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+fprintf(fileID,  '--------------------------------------------------\n');
+fprintf(fileID,  '\n Analyzing DEGs on each time period ... \n');
+formatSpec = 'totally %4d genes activated at time period %d \n';
+
+n_timeperiod = 6;
+
+array_indx = cell(n_timeperiod,1);
+for i = 1 : n_timeperiod % 6 time periods
+    array_indx{i} = logical(GroundtruthTable(:,i)); % gene index activated at time period i
+    ng_tmp = sum(array_indx{i});
+    fprintf(fileID, formatSpec, ng_tmp, i);
+end
+
+for i = 1 : n_timeperiod % 6 time periods
+    writetable(T(array_indx{i},:),sprintf('DEGs-time-period%d.csv',i),...
+        'WriteRowNames',true);
+end
+fprintf(fileID,  '--------------------------------------------------\n');
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Output gene list
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+fprintf(fileID,  '--------------------------------------------------\n');
+fprintf(fileID,  'Exporting Files ... \n');
+
+fprintf(fileID,  'Exporting Differentially Expressed genes ... \n');
 % DEGs
 fp = fopen('ANan-Gene-list-DEG.txt','wt');
 fprintf(fp, '%s\n', name{indx,:});
 fclose(fp);
 
+fprintf(fileID,  'Exporting genes show up-regulated patterns ... \n');
 % up-regulated
 fp = fopen('ANan-Gene-list-DEG-up-regulated.txt','wt');
 fprintf(fp, '%s\n', name{indx_up,:});
 fclose(fp);
 
+fprintf(fileID,  'Exporting genes show down-regulated patterns ... \n');
 % down-regulated
 fp = fopen('ANan-Gene-list-DEG-down-regulated.txt','wt');
 fprintf(fp, '%s\n', name{indx_down,:});
 fclose(fp);
 
+fprintf(fileID,  '--------------------------------------------------\n');
+
+fprintf(fileID,  'Done!\n');
+fprintf(fileID,  'Exiting\n');
+fprintf(fileID,  '--------------------------------------------------\n');
 
 
+type result.txt
 exit
 
 
