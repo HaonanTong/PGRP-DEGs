@@ -1,4 +1,0 @@
-[ fig, ngene, expr,plotData, agis, agis_new ] = ...
-    f_plotTable2( 'kat-rpkm-expression.csv', [], 'Mean Plot' );
-title('Expresson profiles of ALL genes in Arabidopsis thaliana','FontSize',15)
-ylim([-8,+9])

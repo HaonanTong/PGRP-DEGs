@@ -1,4 +1,4 @@
-function f_compare_two_gene_list {
+ function f_compare_two_gene_list {
 	############################################
 	# Analysis of two gene list
 	# Nan
