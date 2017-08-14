@@ -1,13 +1,13 @@
 %% Gene Activition at different time point.
 % Genes activation time point.
 % File that contains infor of genes that show DE pattern at specifice time point
-myDir = './'; %gets directory
+myDir = './Process5/'; %gets directory
 myFiles = dir(fullfile(myDir,'DEGs-time-period*.csv')); %gets all wav files in struct
 
 T = cell(6,1);
 for i = 1 : 6
     % read Tablei that contents gene set show DE pattern at i time point.
-    T{i} = readtable(myFiles(i).name,...
+    T{i} = readtable(sprintf('./Process5/%s',myFiles(i).name),...
      'ReadVariableNames',true,'ReadRowNames',false);
 end
 
@@ -110,13 +110,21 @@ cd ..
 
 
 %% Plot and anlyze different period
-ngene = zeros(6,6);
+ngene = zeros(6,9);
 % ngene(i,1) - total go down - Down
 % ngene(i,2) - total go up - Up
-% ngene(i,3) - nTFs go down - Down TFs
-% ngene(i,4) - nTFs go up - Up TFs
-% ngene(i,5) - TFs go down - Down nTFs
-% ngene(i,1) - TFs go up - Up nTFs
+% ngene(i,3) - Total DEGs activated -nActn
+% ngene(i,4) - TFs go down - Down TFs
+% ngene(i,5) - TFs go up - Up TFs
+% ngene(i,6) - Total TFs - TFs
+% ngene(i,7) - nTFs go down - Down nTFs
+% ngene(i,8) - nTFs go up - Up nTFs
+% ngene(i,9) - Total nTFs - nTFs
+
+% nTFs = Up nTFs + Down nTFs
+%  TFs = Up TFs + Down TFs
+% nActn = Down + Up = TFs + nTFs
+
 % at time phase i.
 for i = 1 : 6 % time period
     myDir = sprintf('./Process8/period%d',i); %gets directory
@@ -126,8 +134,9 @@ for i = 1 : 6 % time period
     end
 end
 
-T_cluster_summary = array2table(ngene,'RowNames',{'T0.25','T0.5','T1','T4','T12','T24'},'VariableNames',...
-    {'Down','Up','Down_TFs', 'Up_TFs', 'Down_nTFs', 'Up_nTFs'});
+ngene = [ ngene ; sum(ngene,1) ];
+T_cluster_summary = array2table(ngene,'RowNames',{'T0.25','T0.5','T1','T4','T12','T24','Sum'},'VariableNames',...
+    {'Down','Up','nActn','Down_TFs', 'Up_TFs','TFs', 'Down_nTFs', 'Up_nTFs','nTFs'});
 writetable(T_cluster_summary,'./Process8/TimeActivationAnalysis.csv','WriteRowNames',true,'WriteVariableNames',true);
 
 T_up = T_cluster_summary(:,{'Up','Up_nTFs','Up_TFs'});
@@ -149,7 +158,7 @@ set(gca, 'XTickLabel',str, 'XTick',1:numel(str))
 xlabel('time(hrs)');
 title({'Bar plot for number of genes',...
     'that activated in up-regulated tendency at different time point'},'FontSize',14);
-print(fig1,'./Process7/up','-dpng');
+print(fig1,'./Process8/up','-dpng');
 
 % down
 fig2 = figure;
@@ -162,4 +171,4 @@ str = {'.25','.5','1','4','12','24'};
 set(gca, 'XTickLabel',str, 'XTick',1:numel(str))
 xlabel('time(hrs)');
 title({'Bar plot for number of genes','that activated in down-regulated tendency'},'FontSize',14);
-print(fig2,'./Process7/down','-dpng');
+print(fig2,'./Process8/down','-dpng');
