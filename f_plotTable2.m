@@ -75,7 +75,7 @@ counter = 0;
 
 %% Read File
 % =========  Read File ===========
-fprintf(' Reading file...\n')
+fprintf(sprintf(' Reading file %s...\n',csv))
 if any(strcmp(varargin,'No Variable Name'))
     isVariableNames = 0;
 else
