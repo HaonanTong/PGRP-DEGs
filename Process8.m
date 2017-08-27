@@ -130,7 +130,9 @@ for i = 1 : 6 % time period
     myDir = sprintf('./Process8/period%d',i); %gets directory
     myFiles = dir(fullfile(myDir,'*.csv')); %gets all wav files in struct
     for j = 1 : length(myFiles)
-        [ ~, ngene(i,j)] = f_plotTable2(sprintf('%s/%s',myDir,myFiles(j).name),[],'Mean Plot');
+        %[ ~, ngene(i,j)] = f_plotTable2(sprintf('%s/%s',myDir,myFiles(j).name),[],'Mean Plot');
+                [ ~, ngene(i,j)] = f_plotTable2(sprintf('%s/%s',myDir,myFiles(j).name),[],'Normalized');
+
     end
 end
 
