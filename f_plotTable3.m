@@ -1,5 +1,5 @@
 function [ fig, ngene, expr,plotData, agis, agis_new ] = ...
-    f_plotTable2( csv, transfile, varargin )
+    f_plotTable3( csv, transfile, varargin )
 warning('off')
 % #####################################
 % @PGRP
@@ -51,7 +51,6 @@ end
 
 
 
-fprintf('Preparing ploting\n');
 
 % csv_token = strtok(csv,'.');
 % segments = string(0);
@@ -75,7 +74,6 @@ counter = 0;
 
 %% Read File
 % =========  Read File ===========
-fprintf(sprintf(' Reading file %s...\n',csv))
 if any(strcmp(varargin,'No Variable Name'))
     isVariableNames = 0;
 else
@@ -110,7 +108,6 @@ end
 
 [ngene,~] = size(Data);
 
-fprintf(' Calucating Expression Profiles at each time point...\n')
 expr = [];
 for i = 1:3:21%7 time points; 3 replicates;
     expr = [expr sum(Data(:,i:i+2),2)];
@@ -122,7 +119,6 @@ expr_n_m = expr - repmat(expr_bar,1,7);
 expr_n_mv = expr_n_m./repmat(sqrt(var(expr_n_m,0,2)),1,7);
 
 
-fprintf(' Calucating log ratio expression pattern at each time point...\n')
 tmp = [];
 for i = 2:7
     tmp = [tmp log2( expr(:,i)./expr(:,1) )];
@@ -135,24 +131,20 @@ if nargin == 2
     return
 end
 
-colors =  ['b' 'r' 'k' 'g' 'c' 'y' 'm' 'w' ];
 
 %% Plot
-fprintf(' Preparing for plotting...\n')
 % =========  'Mean Plot' ===========
 if any(strcmp(varargin,'Mean Plot'))
     counter = counter + 1;
-    fprintf(' Calculating mean and visualizing...\n')
 
     %% Plot
     fig{counter} = figure;x = 0 : 1 : 6;
     hold on;axis([0 6 -2 5])
     plot(x, plotData','Color','[.4,.4,.4]');
-    plot(x,mean( plotData),'Color','r','LineWidth',4);
     xticks(0:6)
     xticklabels({'0','0.25','0.5','1','4','12','24'})
     title(sprintf...
-        ( 'Plot of expression file\n "%s" with %d genes"',...
+        ( 'Plot of expression file\n "%s" with %d gene object profiles',...
         csv, ngene))
     xlabel('Ethylene treatment(hrs)');
     ylabel('Expression-log2ratio(reference at 0 hrs)');
@@ -180,7 +172,7 @@ if any(strcmp(varargin,'Normalized'))
     xticks(0:6)
     xticklabels({'0','0.25','0.5','1','4','12','24'})
     title(sprintf...
-        ( 'Plot of expression file\n "%s" with %d genes"',...
+        ( 'Plot of expression file\n "%s" with %d gene object profiles',...
         csv, ngene))
     xlabel('Ethylene treatment(hrs)');
     ylabel('Normalized');
