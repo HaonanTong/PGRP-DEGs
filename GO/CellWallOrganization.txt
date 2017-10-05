@@ -1,0 +1,94 @@
+ARATH|TAIR=AT1G62980|UniProtKB=Q9LQ07	AT1G62980	Expansin-A18;EXPA18;ortholog	Expansin-A18-related (PTHR31867:SF2)		Arabidopsis thaliana
+ARATH|TAIR=AT1G12040|UniProtKB=O65375	AT1G12040	Leucine-rich repeat extensin-like protein 1;LRX1;ortholog			Arabidopsis thaliana
+ARATH|TAIR=AT5G49360|UniProtKB=Q9FGY1	AT5G49360	Beta-D-xylosidase 1;BXL1;ortholog	Beta-D-xylosidase 1 (PTHR42721:SF8)	glucosidase(PC00108)	Arabidopsis thaliana
+ARATH|TAIR=AT2G18800|UniProtKB=Q9ZV40	AT2G18800	Probable xyloglucan endotransglucosylase/hydrolase protein 21;XTH21;ortholog	xyloglucan endotransglucosylase/hydrolase protein 21-related (PTHR31062:SF101)		Arabidopsis thaliana
+ARATH|TAIR=AT3G10720|UniProtKB=Q94CB1	AT3G10720	Probable pectinesterase/pectinesterase inhibitor 25;PME25;ortholog	pectinesterase/pectinesterase inhibitor 25-related (PTHR31707:SF21)		Arabidopsis thaliana
+ARATH|TAIR=AT2G20750|UniProtKB=Q9SKU2	AT2G20750	Expansin-B1;EXPB1;ortholog	Expansin-B1 (PTHR31692:SF26)		Arabidopsis thaliana
+ARATH|TAIR=AT5G41900|UniProtKB=Q9FJ24	AT5G41900	At5g41900;At5g41900;ortholog	SUBFAMILY NOT NAMED (PTHR43689:SF9)		Arabidopsis thaliana
+ARATH|TAIR=AT2G28110|UniProtKB=Q9ZUV3	AT2G28110	Probable glucuronoxylan glucuronosyltransferase IRX7;IRX7;ortholog	glucuronoxylan glucuronosyltransferase IRX7-related (PTHR11062:SF46)	glycosyltransferase(PC00111)	Arabidopsis thaliana
+ARATH|TAIR=AT3G28340|UniProtKB=Q9LHD2	AT3G28340	Probable galacturonosyltransferase-like 10;GATL10;ortholog	galacturonosyltransferase-like 10-related (PTHR13778:SF14)		Arabidopsis thaliana
+ARATH|TAIR=AT3G54590|UniProtKB=Q9M1G9	AT3G54590	Extensin-2;EXT2;ortholog			Arabidopsis thaliana
+ARATH|TAIR=AT5G05290|UniProtKB=Q38866	AT5G05290	Expansin-A2;EXPA2;ortholog	Expansin-A2-related (PTHR31867:SF71)		Arabidopsis thaliana
+ARATH|TAIR=AT1G12560|UniProtKB=Q9LN94	AT1G12560	Expansin-A7;EXPA7;ortholog	Expansin-A18-related (PTHR31867:SF2)		Arabidopsis thaliana
+ARATH|TAIR=AT2G27860|UniProtKB=Q9ZUY6	AT2G27860	UDP-D-apiose/UDP-D-xylose synthase 1;AXS1;ortholog	UDP-D-apiose/UDP-D-xylose synthase 1-related (PTHR43245:SF13)	dehydratase(PC00091);epimerase/racemase(PC00096);oxidoreductase(PC00176)	Arabidopsis thaliana
+ARATH|TAIR=AT5G04970|UniProtKB=Q9FF77	AT5G04970	Probable pectinesterase/pectinesterase inhibitor 47;PME47;ortholog	pectinesterase/pectinesterase inhibitor 25-related (PTHR31707:SF21)		Arabidopsis thaliana
+ARATH|TAIR=AT4G25820|UniProtKB=Q9ZSU4	AT4G25820	Xyloglucan endotransglucosylase/hydrolase protein 14;XTH14;ortholog	Xyloglucan endotransglucosylase/hydrolase protein 14-related (PTHR31062:SF20)		Arabidopsis thaliana
+ARATH|TAIR=AT5G57530|UniProtKB=Q9FKL9	AT5G57530	Probable xyloglucan endotransglucosylase/hydrolase protein 12;XTH12;ortholog	Xyloglucan endotransglucosylase/hydrolase protein 14-related (PTHR31062:SF20)		Arabidopsis thaliana
+ARATH|TAIR=AT5G17420|UniProtKB=Q9SWW6	AT5G17420	Cellulose synthase A catalytic subunit 7 [UDP-forming];CESA7;ortholog	Cellulose synthase A catalytic subunit 7 [UDP-forming] (PTHR13301:SF28)		Arabidopsis thaliana
+ARATH|TAIR=AT5G19730|UniProtKB=Q8VYZ3	AT5G19730	Probable pectinesterase 53;PME53;ortholog	pectinesterase 53-related (PTHR31321:SF17)		Arabidopsis thaliana
+ARATH|TAIR=AT1G59870|UniProtKB=Q9XIE2	AT1G59870	ABC transporter G family member 36;ABCG36;ortholog	ABC transporter G family member 29-related (PTHR19241:SF224)	ATP-binding cassette (ABC) transporter(PC00003)	Arabidopsis thaliana
+ARATH|TAIR=AT5G01360|UniProtKB=Q8LED3	AT5G01360	Protein trichome birefringence-like 3;TBL3;ortholog	Protein trichome birefringence-like 3 (PTHR32285:SF7)		Arabidopsis thaliana
+ARATH|TAIR=AT4G00730|UniProtKB=Q0WV12	AT4G00730	Homeobox-leucine zipper protein ANTHOCYANINLESS 2;ANL2;ortholog	C. Elegans Homeobox (PTHR24326:SF511)		Arabidopsis thaliana
+ARATH|TAIR=AT3G02210|UniProtKB=Q9SRT7	AT3G02210	COBRA-like protein 1;COBL1;ortholog	COBRA-like protein 1-related (PTHR31673:SF3)		Arabidopsis thaliana
+ARATH|TAIR=AT4G13840|UniProtKB=Q9SVM9	AT4G13840	Protein ECERIFERUM 26;CER26;ortholog	Protein ECERIFERUM 26-related (PTHR31642:SF22)		Arabidopsis thaliana
+ARATH|TAIR=AT4G21960|UniProtKB=Q9SB81	AT4G21960	Peroxidase 42;PER42;ortholog	Peroxidase 42 (PTHR31235:SF69)		Arabidopsis thaliana
+ARATH|TAIR=AT5G54690|UniProtKB=Q9FH36	AT5G54690	Probable galacturonosyltransferase 12;GAUT12;ortholog	galacturonosyltransferase 12-related (PTHR32116:SF24)		Arabidopsis thaliana
+ARATH|TAIR=AT4G39950|UniProtKB=O81346	AT4G39950	Tryptophan N-monooxygenase 1;CYP79B2;ortholog	Cytochrome P450, family 79, subfamily C, polypeptide 1-related (PTHR24298:SF1)	oxygenase(PC00177)	Arabidopsis thaliana
+ARATH|TAIR=AT2G22330|UniProtKB=Q501D8	AT2G22330	Tryptophan N-monooxygenase 2;CYP79B3;ortholog	Cytochrome P450, family 79, subfamily C, polypeptide 1-related (PTHR24298:SF1)	oxygenase(PC00177)	Arabidopsis thaliana
+ARATH|TAIR=AT4G39350|UniProtKB=O48947	AT4G39350	Cellulose synthase A catalytic subunit 2 [UDP-forming];CESA2;ortholog	Cellulose synthase A catalytic subunit 2 [UDP-forming]-related (PTHR13301:SF97)		Arabidopsis thaliana
+ARATH|TAIR=AT3G16850|UniProtKB=Q94C86	AT3G16850	Pectin lyase-like superfamily protein;At3g16850;ortholog	Pectin lyase-like superfamily protein-related (PTHR31339:SF15)		Arabidopsis thaliana
+ARATH|TAIR=AT2G27370|UniProtKB=Q9ZQI2	AT2G27370	Casparian strip membrane protein 3;CASP3;ortholog	Casparian strip membrane protein 1-related (PTHR11615:SF116)	dehydrogenase(PC00092);reductase(PC00198)	Arabidopsis thaliana
+ARATH|TAIR=AT2G37090|UniProtKB=Q9ZQC6	AT2G37090	Probable beta-1,4-xylosyltransferase IRX9;IRX9;ortholog	beta-1,4-xylosyltransferase IRX9-related (PTHR10896:SF16)	glycosyltransferase(PC00111)	Arabidopsis thaliana
+ARATH|TAIR=AT1G24170|UniProtKB=O48684	AT1G24170	Probable galacturonosyltransferase-like 8;GATL8;ortholog	galacturonosyltransferase-like 8-related (PTHR13778:SF7)		Arabidopsis thaliana
+ARATH|TAIR=AT1G13250|UniProtKB=Q0V7R1	AT1G13250	Probable galacturonosyltransferase-like 3;GATL3;ortholog	galacturonosyltransferase-like 3-related (PTHR13778:SF30)		Arabidopsis thaliana
+ARATH|TAIR=AT5G15290|UniProtKB=Q9LXF3	AT5G15290	Casparian strip membrane protein 5;CASP5;ortholog	CASP-like protein 1A1-related (PTHR11615:SF81)	dehydrogenase(PC00092);reductase(PC00198)	Arabidopsis thaliana
+ARATH|TAIR=AT3G62060|UniProtKB=Q84JS1	AT3G62060	Pectin acetylesterase 6;PAE6;ortholog	Pectin acetylesterase 3-related (PTHR21562:SF5)		Arabidopsis thaliana
+ARATH|TAIR=AT4G14130|UniProtKB=Q38911	AT4G14130	Xyloglucan endotransglucosylase/hydrolase protein 15;XTH15;ortholog	Xyloglucan endotransglucosylase/hydrolase protein 15-related (PTHR31062:SF61)		Arabidopsis thaliana
+ARATH|TAIR=AT4G38400|UniProtKB=Q9SVE5	AT4G38400	Expansin-like A2;EXLA2;ortholog	Expansin-like A1-related (PTHR31692:SF4)		Arabidopsis thaliana
+ARATH|TAIR=AT2G15370|UniProtKB=Q9SJP4	AT2G15370	Probable fucosyltransferase 5;FUT5;ortholog	Fucosyltransferase 2-related (PTHR31889:SF34)		Arabidopsis thaliana
+ARATH|TAIR=AT2G40610|UniProtKB=O22874	AT2G40610	Expansin-A8;EXPA8;ortholog	Expansin-A2-related (PTHR31867:SF71)		Arabidopsis thaliana
+ARATH|TAIR=AT2G47550|UniProtKB=O22256	AT2G47550	Probable pectinesterase/pectinesterase inhibitor 20;PME20;ortholog	pectinesterase/pectinesterase inhibitor 20-related (PTHR31707:SF33)		Arabidopsis thaliana
+ARATH|TAIR=AT4G19970|UniProtKB=O49424	AT4G19970	Glycosyltransferase;At4g19970;ortholog	Glycosyltransferase (PTHR24015:SF419)	RNA binding protein(PC00031);serine/threonine protein kinase receptor(PC00205);transporter(PC00227)	Arabidopsis thaliana
+ARATH|TAIR=AT4G30270|UniProtKB=P24806	AT4G30270	Xyloglucan endotransglucosylase/hydrolase protein 24;XTH24;ortholog	Xyloglucan endotransglucosylase/hydrolase protein 14-related (PTHR31062:SF20)		Arabidopsis thaliana
+ARATH|TAIR=AT4G01630|UniProtKB=Q9ZSI1	AT4G01630	Putative expansin-A17;EXPA17;ortholog	expansin-A17-related (PTHR31867:SF34)		Arabidopsis thaliana
+ARATH|TAIR=AT2G26440|UniProtKB=O48711	AT2G26440	Probable pectinesterase/pectinesterase inhibitor 12;PME12;ortholog	pectinesterase/pectinesterase inhibitor 12-related (PTHR31707:SF39)		Arabidopsis thaliana
+ARATH|TAIR=AT1G30870|UniProtKB=Q9SY33	AT1G30870	Peroxidase 7;PER7;ortholog	Peroxidase 7 (PTHR31235:SF8)		Arabidopsis thaliana
+ARATH|TAIR=AT3G49220|UniProtKB=Q9M3B0	AT3G49220	Probable pectinesterase/pectinesterase inhibitor 34;PME34;ortholog	pectinesterase/pectinesterase inhibitor 34-related (PTHR31707:SF8)		Arabidopsis thaliana
+ARATH|TAIR=AT1G05660|UniProtKB=Q9SYK7	AT1G05660	F3F20.11 protein;F3F20.11;ortholog	F3F20.10 protein-related (PTHR31375:SF31)		Arabidopsis thaliana
+ARATH|TAIR=AT1G02460|UniProtKB=Q9FWX5	AT1G02460	At1g02460;T14P4.18;ortholog	Glycoside hydrolase family 28 protein / polygalacturonase (Pectinase) family protein (PTHR31375:SF43)		Arabidopsis thaliana
+ARATH|TAIR=AT3G15370|UniProtKB=Q9LDJ3	AT3G15370	Expansin-A12;EXPA12;ortholog	Expansin-A12 (PTHR31867:SF24)		Arabidopsis thaliana
+ARATH|TAIR=AT2G43870|UniProtKB=O22817	AT2G43870	Polygalacturonase/pectinase;At2g43870;ortholog	Polygalacturonase/pectinase (PTHR31375:SF2)		Arabidopsis thaliana
+ARATH|TAIR=AT3G18660|UniProtKB=Q9LSB1	AT3G18660	UDP-glucuronate:xylan alpha-glucuronosyltransferase 1;GUX1;ortholog	UDP-glucuronate:xylan alpha-glucuronosyltransferase 1 (PTHR11183:SF45)	transferase(PC00220)	Arabidopsis thaliana
+ARATH|TAIR=AT1G77130|UniProtKB=Q8W4A7	AT1G77130	Putative UDP-glucuronate:xylan alpha-glucuronosyltransferase 3;GUX3;ortholog	UDP-glucuronate:xylan alpha-glucuronosyltransferase 3-related (PTHR11183:SF56)	transferase(PC00220)	Arabidopsis thaliana
+ARATH|TAIR=AT4G24140|UniProtKB=O22977	AT4G24140	AT4g24140/T19F6_130;T19F6.6;ortholog	SUBFAMILY NOT NAMED (PTHR43689:SF9)		Arabidopsis thaliana
+ARATH|TAIR=AT4G20050|UniProtKB=O49432	AT4G20050	Polygalacturonase QRT3;QRT3;ortholog	Polygalacturonase QRT3 (PTHR33928:SF2)		Arabidopsis thaliana
+ARATH|TAIR=AT4G30280|UniProtKB=Q9M0D2	AT4G30280	Probable xyloglucan endotransglucosylase/hydrolase protein 18;XTH18;ortholog	Xyloglucan endotransglucosylase/hydrolase protein 14-related (PTHR31062:SF20)		Arabidopsis thaliana
+ARATH|TAIR=AT5G57540|UniProtKB=Q9FKL8	AT5G57540	Putative xyloglucan endotransglucosylase/hydrolase protein 13;XTH13;ortholog	Xyloglucan endotransglucosylase/hydrolase protein 14-related (PTHR31062:SF20)		Arabidopsis thaliana
+ARATH|TAIR=AT1G74420|UniProtKB=Q9CA71	AT1G74420	Fucosyltransferase 3;FUT3;ortholog	Fucosyltransferase 3 (PTHR31889:SF2)		Arabidopsis thaliana
+ARATH|TAIR=AT2G18950|UniProtKB=Q8VWJ1	AT2G18950	Homogentisate phytyltransferase 1, chloroplastic;HPT1;ortholog	Homogentisate phytyltransferase 1, chloroplastic (PTHR43009:SF2)	acyltransferase(PC00042)	Arabidopsis thaliana
+ARATH|TAIR=AT3G22800|UniProtKB=Q9LUI1	AT3G22800	Leucine-rich repeat extensin-like protein 6;LRX6;ortholog	Leucine-rich repeat extensin-like protein 6 (PTHR32093:SF89)		Arabidopsis thaliana
+ARATH|TAIR=AT2G45220|UniProtKB=O22149	AT2G45220	Probable pectinesterase/pectinesterase inhibitor 17;PME17;ortholog	pectinesterase/pectinesterase inhibitor 17-related (PTHR31707:SF11)		Arabidopsis thaliana
+ARATH|TAIR=AT1G75500|UniProtKB=Q94AP3	AT1G75500	Protein WALLS ARE THIN 1;WAT1;ortholog	Protein WALLS ARE THIN 1 (PTHR31218:SF53)		Arabidopsis thaliana
+ARATH|TAIR=AT4G02130|UniProtKB=O04253	AT4G02130	Probable galacturonosyltransferase-like 6;GATL6;ortholog	galacturonosyltransferase-like 5-related (PTHR13778:SF8)		Arabidopsis thaliana
+ARATH|TAIR=AT4G08410|UniProtKB=Q9STM7	AT4G08410	Extensin-like protein;T28D5.100;ortholog			Arabidopsis thaliana
+ARATH|TAIR=AT2G03090|UniProtKB=O80622	AT2G03090	Expansin-A15;EXPA15;ortholog	Expansin-A1-related (PTHR31867:SF1)		Arabidopsis thaliana
+ARATH|TAIR=AT4G33440|UniProtKB=Q84K13	AT4G33440	Pectin lyase-like superfamily protein;At4g33440;ortholog	Pectin lyase-like superfamily protein (PTHR31339:SF4)		Arabidopsis thaliana
+ARATH|TAIR=AT4G08400|UniProtKB=Q9STM8	AT4G08400	Extensin-like protein;T28D5.90;ortholog			Arabidopsis thaliana
+ARATH|TAIR=AT5G16490|UniProtKB=Q9FFD5	AT5G16490	CRIB domain-containing protein RIC4;RIC4;ortholog	CRIB domain-containing protein RIC1-related (PTHR23177:SF53)	cytoskeletal protein(PC00085)	Arabidopsis thaliana
+ARATH|TAIR=AT1G62440|UniProtKB=O48809	AT1G62440	Leucine-rich repeat extensin-like protein 2;LRX2;ortholog			Arabidopsis thaliana
+ARATH|TAIR=AT4G28850|UniProtKB=Q9SVV2	AT4G28850	Probable xyloglucan endotransglucosylase/hydrolase protein 26;XTH26;ortholog	xyloglucan endotransglucosylase/hydrolase protein 26-related (PTHR31062:SF55)		Arabidopsis thaliana
+ARATH|TAIR=AT3G48580|UniProtKB=Q9SMP1	AT3G48580	Probable xyloglucan endotransglucosylase/hydrolase protein 11;XTH11;ortholog	Xyloglucan endotransglucosylase/hydrolase protein 2-related (PTHR31062:SF43)		Arabidopsis thaliana
+ARATH|TAIR=AT1G32170|UniProtKB=Q38908	AT1G32170	Probable xyloglucan endotransglucosylase/hydrolase protein 30;XTH30;ortholog	xyloglucan endotransglucosylase/hydrolase protein 29-related (PTHR31062:SF16)		Arabidopsis thaliana
+ARATH|TAIR=AT1G48100|UniProtKB=Q949Z1	AT1G48100	Polygalacturonase At1g48100;At1g48100;ortholog	SUBFAMILY NOT NAMED (PTHR31375:SF26)		Arabidopsis thaliana
+ARATH|TAIR=AT1G18570|UniProtKB=O49782	AT1G18570	Transcription factor MYB51;MYB51;ortholog	Transcription factor MYB122-related (PTHR10641:SF604)	DNA binding protein(PC00009);transcription factor(PC00218)	Arabidopsis thaliana
+ARATH|TAIR=AT5G17780|UniProtKB=B3H685	AT5G17780	Hydrolase, alpha/beta fold family protein;At5g17780;ortholog	ABHydrolase Domain containing homolog (PTHR43689:SF10)		Arabidopsis thaliana
+ARATH|TAIR=AT2G15880|UniProtKB=Q9XIL9	AT2G15880	Pollen-specific leucine-rich repeat extensin-like protein 3;PEX3;ortholog			Arabidopsis thaliana
+ARATH|TAIR=AT5G23190|UniProtKB=Q9FMY1	AT5G23190	Cytochrome P450 86B1;CYP86B1;ortholog	Cytochrome P450 86B1-related (PTHR24296:SF3)	oxygenase(PC00177)	Arabidopsis thaliana
+ARATH|TAIR=AT5G04960|UniProtKB=Q9FF78	AT5G04960	Probable pectinesterase/pectinesterase inhibitor 46;PME46;ortholog	pectinesterase/pectinesterase inhibitor 24-related (PTHR31707:SF48)		Arabidopsis thaliana
+ARATH|TAIR=AT1G53830|UniProtKB=Q42534	AT1G53830	Pectinesterase 2;PME2;ortholog	Pectinesterase-related (PTHR31707:SF55)		Arabidopsis thaliana
+ARATH|TAIR=AT2G41850|UniProtKB=Q8RY29	AT2G41850	Polygalacturonase ADPG2;ADPG2;ortholog	Polygalacturonase ADPG1-related (PTHR31375:SF3)		Arabidopsis thaliana
+ARATH|TAIR=AT5G22940|UniProtKB=Q6NMM8	AT5G22940	Probable glucuronoxylan glucuronosyltransferase F8H;F8H;ortholog	glucuronoxylan glucuronosyltransferase F8H-related (PTHR11062:SF188)	glycosyltransferase(PC00111)	Arabidopsis thaliana
+ARATH|TAIR=AT3G43270|UniProtKB=Q9LXK7	AT3G43270	Probable pectinesterase/pectinesterase inhibitor 32;PME32;ortholog	pectinesterase/pectinesterase inhibitor 32-related (PTHR31707:SF10)		Arabidopsis thaliana
+ARATH|TAIR=AT5G56320|UniProtKB=Q9FMA0	AT5G56320	Expansin-A14;EXPA14;ortholog	Expansin-A1-related (PTHR31867:SF1)		Arabidopsis thaliana
+ARATH|TAIR=AT5G06200|UniProtKB=Q9FFZ7	AT5G06200	Casparian strip membrane protein 4;CASP4;ortholog	Casparian strip membrane protein 1-related (PTHR11615:SF116)	dehydrogenase(PC00092);reductase(PC00198)	Arabidopsis thaliana
+ARATH|TAIR=AT5G51500|UniProtKB=Q9FHN4	AT5G51500	Probable pectinesterase/pectinesterase inhibitor 60;PME60;ortholog	pectinesterase/pectinesterase inhibitor 33-related (PTHR31707:SF45)		Arabidopsis thaliana
+ARATH|TAIR=AT4G01750|UniProtKB=Q9ZSJ0	AT4G01750	UDP-D-xylose:L-fucose alpha-1,3-D-xylosyltransferase;RGXT2;ortholog	UDP-D-xylose:L-fucose alpha-1,3-D-xylosyltransferase-related (PTHR10994:SF60)	membrane traffic protein(PC00150)	Arabidopsis thaliana
+ARATH|TAIR=AT5G16910|UniProtKB=Q9LFL0	AT5G16910	Cellulose synthase-like protein D2;CSLD2;ortholog	Cellulose synthase-like protein D2-related (PTHR13301:SF58)		Arabidopsis thaliana
+ARATH|TAIR=AT3G29030|UniProtKB=Q38864	AT3G29030	Expansin-A5;EXPA5;ortholog	Expansin-A5 (PTHR31867:SF39)		Arabidopsis thaliana
+ARATH|TAIR=AT3G45960|UniProtKB=Q9LZT5	AT3G45960	Expansin-like A3;EXLA3;ortholog	Expansin-like A1-related (PTHR31692:SF4)		Arabidopsis thaliana
+ARATH|TAIR=AT2G28950|UniProtKB=Q38865	AT2G28950	Expansin-A6;EXPA6;ortholog	Expansin-A6 (PTHR31867:SF29)		Arabidopsis thaliana
+ARATH|TAIR=AT1G23720|UniProtKB=Q9ZUC3	AT1G23720	F5O8.27 protein;F5O8.27;ortholog			Arabidopsis thaliana
+ARATH|TAIR=AT1G26770|UniProtKB=Q9LDR9	AT1G26770	Expansin-A10;EXPA10;ortholog	Expansin-A10 (PTHR31867:SF30)		Arabidopsis thaliana
+ARATH|TAIR=AT1G02800|UniProtKB=Q9SRX3	AT1G02800	Endoglucanase 1;CEL2;ortholog	Endoglucanase 1-related (PTHR22298:SF55)		Arabidopsis thaliana
+ARATH|TAIR=AT5G03280|UniProtKB=Q9S814	AT5G03280	Ethylene-insensitive protein 2;EIN2;ortholog	Manganese transporter SMF1 (PTHR11706:SF33)	cation transporter(PC00068)	Arabidopsis thaliana
+ARATH|TAIR=AT1G69530|UniProtKB=Q9C554	AT1G69530	Expansin-A1;EXPA1;ortholog	Expansin-A1-related (PTHR31867:SF1)		Arabidopsis thaliana

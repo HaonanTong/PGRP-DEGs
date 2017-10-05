@@ -1,0 +1,52 @@
+ARATH|TAIR=AT5G03730|UniProtKB=Q05609	AT5G03730	Serine/threonine-protein kinase CTR1;CTR1;ortholog	Serine/threonine-protein kinase CTR1 (PTHR44329:SF1)		Arabidopsis thaliana
+ARATH|TAIR=AT3G16770|UniProtKB=P42736	AT3G16770	Ethylene-responsive transcription factor RAP2-3;RAP2-3;ortholog	Ethylene-responsive transcription factor ABR1-related (PTHR31190:SF66)		Arabidopsis thaliana
+ARATH|TAIR=AT2G31180|UniProtKB=Q9SJX8	AT2G31180	At2g31180;MYB14;ortholog	SUBFAMILY NOT NAMED (PTHR10641:SF954)	DNA binding protein(PC00009);transcription factor(PC00218)	Arabidopsis thaliana
+ARATH|TAIR=AT1G68840|UniProtKB=P82280	AT1G68840	AP2/ERF and B3 domain-containing transcription repressor RAV2;RAV2;ortholog	AP2/ERF and B3 domain-containing transcription repressor RAV2-related (PTHR31140:SF9)		Arabidopsis thaliana
+ARATH|TAIR=AT5G47220|UniProtKB=O80338	AT5G47220	Ethylene-responsive transcription factor 2;ERF2;ortholog	Ethylene-responsive transcription factor 2 (PTHR31190:SF69)		Arabidopsis thaliana
+ARATH|TAIR=AT1G74840|UniProtKB=Q9S7N6	AT1G74840	F25A4.19 protein;F9E10.31;ortholog	F25A4.19 protein (PTHR12374:SF26)		Arabidopsis thaliana
+ARATH|TAIR=AT2G44940|UniProtKB=Q8LBQ7	AT2G44940	Ethylene-responsive transcription factor ERF034;ERF034;ortholog	Dehydration-responsive element-binding protein 3-related (PTHR31985:SF77)		Arabidopsis thaliana
+ARATH|TAIR=AT4G24670|UniProtKB=Q94A02	AT4G24670	Tryptophan aminotransferase-related protein 2;TAR2;ortholog	Tryptophan aminotransferase-related protein 2 (PTHR43795:SF22)	transaminase(PC00216)	Arabidopsis thaliana
+ARATH|TAIR=AT1G64380|UniProtKB=Q9C7W2	AT1G64380	Ethylene-responsive transcription factor ERF061;ERF061;ortholog	Ethylene-responsive transcription factor ERF061 (PTHR31657:SF20)		Arabidopsis thaliana
+ARATH|TAIR=AT1G73500|UniProtKB=Q9FX43	AT1G73500	Mitogen-activated protein kinase kinase 9;MKK9;ortholog	Mitogen-activated protein kinase kinase 7-related (PTHR24361:SF453)		Arabidopsis thaliana
+ARATH|TAIR=AT3G59900|UniProtKB=Q6NMD6	AT3G59900	Protein AUXIN-REGULATED GENE INVOLVED IN ORGAN SIZE;ARGOS;ortholog	ARGOS-like protein-related (PTHR36023:SF3)		Arabidopsis thaliana
+ARATH|TAIR=AT5G13910|UniProtKB=Q9M644	AT5G13910	Ethylene-responsive transcription factor LEP;LEP;ortholog	Ethylene-responsive transcription factor 14-related (PTHR31677:SF9)		Arabidopsis thaliana
+ARATH|TAIR=AT2G40220|UniProtKB=A0MES8	AT2G40220	Ethylene-responsive transcription factor ABI4;ABI4;ortholog	Ethylene-responsive transcription factor ABI4 (PTHR31241:SF7)		Arabidopsis thaliana
+ARATH|TAIR=AT2G25490|UniProtKB=Q9SKK0	AT2G25490	EIN3-binding F-box protein 1;EBF1;ortholog	EIN3-binding F-box protein 1-related (PTHR44327:SF2)		Arabidopsis thaliana
+ARATH|TAIR=AT1G21910|UniProtKB=Q9SFE4	AT1G21910	Ethylene-responsive transcription factor ERF012;ERF012;ortholog	Dehydration-responsive element-binding protein 3-related (PTHR31985:SF77)		Arabidopsis thaliana
+ARATH|TAIR=AT4G11140|UniProtKB=O82503	AT4G11140	Ethylene-responsive transcription factor CRF1;CRF1;ortholog	Ethylene-responsive transcription factor ABR1-related (PTHR31190:SF66)		Arabidopsis thaliana
+ARATH|TAIR=AT5G21120|UniProtKB=O23115	AT5G21120	ETHYLENE INSENSITIVE 3-like 2 protein;EIL2;ortholog	ETHYLENE INSENSITIVE 3-like 1 protein-related (PTHR33305:SF1)		Arabidopsis thaliana
+ARATH|TAIR=AT4G37580|UniProtKB=Q42381	AT4G37580	Probable N-acetyltransferase HLS1;HLS1;ortholog	N-acetyltransferase HLS1-like-related (PTHR43072:SF12)	acetyltransferase(PC00038)	Arabidopsis thaliana
+ARATH|TAIR=AT1G72360|UniProtKB=Q8H0T5	AT1G72360	Ethylene-responsive transcription factor ERF073;ERF073;ortholog	Ethylene-responsive transcription factor ABR1-related (PTHR31190:SF66)		Arabidopsis thaliana
+ARATH|TAIR=AT3G62680|UniProtKB=Q9LZJ7	AT3G62680	Proline-rich protein 3;PRP3;ortholog	Pollen Ole e 1 allergen and extensin family protein-related (PTHR33470:SF1)		Arabidopsis thaliana
+ARATH|TAIR=AT2G26070|UniProtKB=F4ITL6	AT2G26070	Protein REVERSION-TO-ETHYLENE SENSITIVITY1;RTE1;ortholog	Transmembrane protein 222 (PTHR20921:SF0)		Arabidopsis thaliana
+ARATH|TAIR=AT3G61630|UniProtKB=Q9M374	AT3G61630	Ethylene-responsive transcription factor CRF6;CRF6;ortholog	Ethylene-responsive transcription factor CRF3-related (PTHR31194:SF43)		Arabidopsis thaliana
+ARATH|TAIR=AT3G15210|UniProtKB=O80340	AT3G15210	Ethylene-responsive transcription factor 4;ERF4;ortholog	Ethylene-responsive transcription factor 10-related (PTHR31677:SF17)		Arabidopsis thaliana
+ARATH|TAIR=AT5G64900|UniProtKB=Q9LV87	AT5G64900	Elicitor peptide 1;PEP1;ortholog			Arabidopsis thaliana
+ARATH|TAIR=AT3G23240|UniProtKB=Q8LDC8	AT3G23240	Ethylene-responsive transcription factor 1B;ERF1B;ortholog	Ethylene-responsive transcription factor 15-related (PTHR31190:SF15)		Arabidopsis thaliana
+ARATH|TAIR=AT3G15356|UniProtKB=Q9LJR2	AT3G15356	Lectin-like protein LEC;LEC;ortholog	Lectin-like protein-related (PTHR32401:SF5)		Arabidopsis thaliana
+ARATH|TAIR=AT4G11280|UniProtKB=Q9SAR0	AT4G11280	1-aminocyclopropane-1-carboxylate synthase 6;ACS6;ortholog	1-aminocyclopropane-1-carboxylate synthase 6 (PTHR43795:SF6)	transaminase(PC00216)	Arabidopsis thaliana
+ARATH|TAIR=AT2G40940|UniProtKB=Q38846	AT2G40940	Ethylene response sensor 1;ERS1;ortholog	Ethylene response sensor 1 (PTHR24423:SF615)	esterase(PC00097);protein kinase(PC00193);transcription factor(PC00218)	Arabidopsis thaliana
+ARATH|TAIR=AT4G17500|UniProtKB=O80337	AT4G17500	Ethylene-responsive transcription factor 1A;ERF1A;ortholog	Ethylene-responsive transcription factor 13-related (PTHR31190:SF41)		Arabidopsis thaliana
+ARATH|TAIR=AT1G25560|UniProtKB=Q9C6M5	AT1G25560	AP2/ERF and B3 domain-containing transcription repressor TEM1;TEM1;ortholog	AP2/ERF and B3 domain-containing transcription repressor RAV2-related (PTHR31140:SF9)		Arabidopsis thaliana
+ARATH|TAIR=AT1G10480|UniProtKB=Q39264	AT1G10480	Zinc finger protein 5;ZFP5;ortholog			Arabidopsis thaliana
+ARATH|TAIR=AT2G38210|UniProtKB=O80446	AT2G38210	Pyridoxal 5'-phosphate synthase PDX1-like 4;PDX1L4;ortholog			Arabidopsis thaliana
+ARATH|TAIR=AT5G55620|UniProtKB=Q8LC55	AT5G55620	At5g55620;At5g55620;ortholog	SUBFAMILY NOT NAMED (PTHR33513:SF1)		Arabidopsis thaliana
+ARATH|TAIR=AT1G12890|UniProtKB=Q3E703	AT1G12890	Ethylene-responsive transcription factor ERF088;ERF088;ortholog	Ethylene-responsive transcription factor 14-related (PTHR31677:SF9)		Arabidopsis thaliana
+ARATH|TAIR=AT1G04310|UniProtKB=P93825	AT1G04310	Ethylene response sensor 2;ERS2;ortholog	Ethylene receptor 1-related (PTHR24423:SF598)	esterase(PC00097);protein kinase(PC00193);transcription factor(PC00218)	Arabidopsis thaliana
+ARATH|TAIR=AT1G18570|UniProtKB=O49782	AT1G18570	Transcription factor MYB51;MYB51;ortholog	Transcription factor MYB122-related (PTHR10641:SF604)	DNA binding protein(PC00009);transcription factor(PC00218)	Arabidopsis thaliana
+ARATH|TAIR=AT3G16350|UniProtKB=Q84TG2	AT3G16350	At3g16350;At3g16350;ortholog	SUBFAMILY NOT NAMED (PTHR44377:SF3)		Arabidopsis thaliana
+ARATH|TAIR=AT5G47230|UniProtKB=O80341	AT5G47230	Ethylene-responsive transcription factor 5;ERF5;ortholog	Ethylene-responsive transcription factor 10-related (PTHR31677:SF17)		Arabidopsis thaliana
+ARATH|TAIR=AT4G39780|UniProtKB=O65665	AT4G39780	Ethylene-responsive transcription factor ERF060;ERF060;ortholog	Ethylene-responsive transcription factor ERF055-related (PTHR31657:SF9)		Arabidopsis thaliana
+ARATH|TAIR=AT4G05100|UniProtKB=Q9M0Y5	AT4G05100	MYB-like protein;MYB74;ortholog	MYB transcription factor-related (PTHR10641:SF586)	DNA binding protein(PC00009);transcription factor(PC00218)	Arabidopsis thaliana
+ARATH|TAIR=AT2G31730|UniProtKB=Q7XJU1	AT2G31730	BHLH transcription factor;bHLH-beta;ortholog	BHLH transcription factor-related (PTHR16223:SF41)		Arabidopsis thaliana
+ARATH|TAIR=AT1G44830|UniProtKB=Q9LPE8	AT1G44830	Ethylene-responsive transcription factor ERF014;ERF014;ortholog	Dehydration-responsive element-binding protein 3-related (PTHR31985:SF77)		Arabidopsis thaliana
+ARATH|TAIR=AT5G17490|UniProtKB=Q9LF53	AT5G17490	DELLA protein RGL3;RGL3;ortholog	DELLA protein RGL1-related (PTHR31636:SF47)		Arabidopsis thaliana
+ARATH|TAIR=AT5G64750|UniProtKB=Q9FGF8	AT5G64750	Ethylene-responsive transcription factor ABR1;ABR1;ortholog	Ethylene-responsive transcription factor ABR1-related (PTHR31190:SF66)		Arabidopsis thaliana
+ARATH|TAIR=AT1G77640|UniProtKB=Q9CAP4	AT1G77640	Ethylene-responsive transcription factor ERF013;ERF013;ortholog	Dehydration-responsive element-binding protein 3-related (PTHR31985:SF77)		Arabidopsis thaliana
+ARATH|TAIR=AT4G28140|UniProtKB=Q9M0J3	AT4G28140	Ethylene-responsive transcription factor ERF054;ERF054;ortholog	Ethylene-responsive transcription factor ERF053-related (PTHR31657:SF19)		Arabidopsis thaliana
+ARATH|TAIR=AT5G25350|UniProtKB=Q708Y0	AT5G25350	EIN3-binding F-box protein 2;EBF2;ortholog	EIN3-binding F-box protein 1-related (PTHR44327:SF2)		Arabidopsis thaliana
+ARATH|TAIR=AT3G23150|UniProtKB=Q0WPQ2	AT3G23150	Ethylene receptor 2;ETR2;ortholog	Ethylene receptor 2 (PTHR43719:SF6)	esterase(PC00097);protein kinase(PC00193);transcription factor(PC00218)	Arabidopsis thaliana
+ARATH|TAIR=AT3G03450|UniProtKB=Q8GXW1	AT3G03450	DELLA protein RGL2;RGL2;ortholog	DELLA protein RGL1-related (PTHR31636:SF47)		Arabidopsis thaliana
+ARATH|TAIR=AT4G16750|UniProtKB=Q9SUK8	AT4G16750	Ethylene-responsive transcription factor ERF039;ERF039;ortholog	Dehydration-responsive element-binding protein 3-related (PTHR31985:SF77)		Arabidopsis thaliana
+ARATH|TAIR=AT1G28370|UniProtKB=Q9C5I3	AT1G28370	Ethylene-responsive transcription factor 11;ERF11;ortholog	Ethylene-responsive transcription factor 10-related (PTHR31677:SF17)		Arabidopsis thaliana
+ARATH|TAIR=AT5G03280|UniProtKB=Q9S814	AT5G03280	Ethylene-insensitive protein 2;EIN2;ortholog	Manganese transporter SMF1 (PTHR11706:SF33)	cation transporter(PC00068)	Arabidopsis thaliana

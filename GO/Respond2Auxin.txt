@@ -1,0 +1,61 @@
+ARATH|TAIR=AT1G53230|UniProtKB=Q9MAH8	AT1G53230	Transcription factor TCP3;TCP3;ortholog	Transcription factor TCP1-related (PTHR31072:SF41)		Arabidopsis thaliana
+ARATH|TAIR=AT2G31180|UniProtKB=Q9SJX8	AT2G31180	At2g31180;MYB14;ortholog	SUBFAMILY NOT NAMED (PTHR10641:SF954)	DNA binding protein(PC00009);transcription factor(PC00218)	Arabidopsis thaliana
+ARATH|TAIR=AT2G46990|UniProtKB=O24410	AT2G46990	Auxin-responsive protein IAA20;IAA20;ortholog	Auxin-responsive protein IAA20-related (PTHR31734:SF15)		Arabidopsis thaliana
+ARATH|TAIR=AT1G29440|UniProtKB=F4I1H5	AT1G29440	Auxin-responsive protein SAUR63;SAUR63;ortholog	Auxin-responsive protein SAUR62-related (PTHR31175:SF1)		Arabidopsis thaliana
+ARATH|TAIR=AT1G54200|UniProtKB=Q9SLL2	AT1G54200	Protein BIG GRAIN 1-like B;At1g54200;ortholog	Protein BIG GRAIN 1-like A-related (PTHR33541:SF5)		Arabidopsis thaliana
+ARATH|TAIR=AT1G28130|UniProtKB=Q9FZ87	AT1G28130	Indole-3-acetic acid-amido synthetase GH3.17;GH3.17;ortholog	Indole-3-acetic acid-amido synthetase GH3.17 (PTHR31901:SF34)		Arabidopsis thaliana
+ARATH|TAIR=AT5G18060|UniProtKB=Q9FJF6	AT5G18060	Auxin-responsive protein SAUR23;SAUR23;ortholog	Auxin-responsive protein SAUR15-related (PTHR31929:SF22)		Arabidopsis thaliana
+ARATH|TAIR=AT5G18010|UniProtKB=Q9FJG1	AT5G18010	Auxin-responsive protein SAUR19;SAUR19;ortholog	Auxin-responsive protein SAUR15-related (PTHR31929:SF22)		Arabidopsis thaliana
+ARATH|TAIR=AT1G74840|UniProtKB=Q9S7N6	AT1G74840	F25A4.19 protein;F9E10.31;ortholog	F25A4.19 protein (PTHR12374:SF26)		Arabidopsis thaliana
+ARATH|TAIR=AT2G21050|UniProtKB=Q9S836	AT2G21050	Auxin transporter-like protein 2;LAX2;ortholog	Auxin transporter-like protein 2 (PTHR22950:SF242)	amino acid transporter(PC00046)	Arabidopsis thaliana
+ARATH|TAIR=AT5G18020|UniProtKB=Q9FJG0	AT5G18020	Auxin-responsive protein SAUR20;SAUR20;ortholog	Auxin-responsive protein SAUR15-related (PTHR31929:SF22)		Arabidopsis thaliana
+ARATH|TAIR=AT5G63310|UniProtKB=O64903	AT5G63310	Nucleoside diphosphate kinase II, chloroplastic;NDPK2;ortholog	Nucleoside diphosphate kinase II, chloroplastic (PTHR11349:SF44)		Arabidopsis thaliana
+ARATH|TAIR=AT4G37390|UniProtKB=Q9SZT9	AT4G37390	Indole-3-acetic acid-amido synthetase GH3.2;GH3.2;ortholog	Indole-3-acetic acid-amido synthetase GH3.2-related (PTHR31901:SF9)		Arabidopsis thaliana
+ARATH|TAIR=AT3G17600|UniProtKB=Q8H174	AT3G17600	Auxin-responsive protein IAA31;IAA31;ortholog	Auxin-responsive protein IAA31 (PTHR31734:SF3)		Arabidopsis thaliana
+ARATH|TAIR=AT4G37610|UniProtKB=Q6EJ98	AT4G37610	BTB/POZ and TAZ domain-containing protein 5;BT5;ortholog	BTB/POZ and TAZ domain-containing protein 4-related (PTHR24413:SF145)	non-motor actin binding protein(PC00165);serine protease(PC00203);transcription cofactor(PC00217)	Arabidopsis thaliana
+ARATH|TAIR=AT5G07990|UniProtKB=Q9SD85	AT5G07990	Flavonoid 3'-monooxygenase;CYP75B1;ortholog	Flavonoid 3'-monooxygenase (PTHR24298:SF104)	oxygenase(PC00177)	Arabidopsis thaliana
+ARATH|TAIR=AT3G59900|UniProtKB=Q6NMD6	AT3G59900	Protein AUXIN-REGULATED GENE INVOLVED IN ORGAN SIZE;ARGOS;ortholog	ARGOS-like protein-related (PTHR36023:SF3)		Arabidopsis thaliana
+ARATH|TAIR=AT1G59750|UniProtKB=Q8L7G0	AT1G59750	Auxin response factor 1;ARF1;ortholog	Auxin response factor 1 (PTHR31384:SF24)		Arabidopsis thaliana
+ARATH|TAIR=AT1G59870|UniProtKB=Q9XIE2	AT1G59870	ABC transporter G family member 36;ABCG36;ortholog	ABC transporter G family member 29-related (PTHR19241:SF224)	ATP-binding cassette (ABC) transporter(PC00003)	Arabidopsis thaliana
+ARATH|TAIR=AT4G02520|UniProtKB=P46422	AT4G02520	Glutathione S-transferase F2;GSTF2;ortholog	Glutathione S-transferase F14-related (PTHR43900:SF7)		Arabidopsis thaliana
+ARATH|TAIR=AT2G42620|UniProtKB=Q9SIM9	AT2G42620	F-box protein MAX2;MAX2;ortholog	F-box protein MAX2 (PTHR45182:SF1)		Arabidopsis thaliana
+ARATH|TAIR=AT4G14550|UniProtKB=Q38832	AT4G14550	Auxin-responsive protein IAA14;IAA14;ortholog	Auxin-responsive protein IAA14-related (PTHR31734:SF89)		Arabidopsis thaliana
+ARATH|TAIR=AT5G18030|UniProtKB=Q9FJF9	AT5G18030	Auxin-responsive protein SAUR21;SAUR21;ortholog	Auxin-responsive protein SAUR15-related (PTHR31929:SF22)		Arabidopsis thaliana
+ARATH|TAIR=AT5G25890|UniProtKB=Q9XFM0	AT5G25890	Auxin-responsive protein IAA28;IAA28;ortholog	Auxin-responsive protein IAA18-related (PTHR31734:SF2)		Arabidopsis thaliana
+ARATH|TAIR=AT3G03660|UniProtKB=Q6X7J3	AT3G03660	WUSCHEL-related homeobox 11;WOX11;ortholog	WUSCHEL-related homeobox 11-related (PTHR24326:SF185)		Arabidopsis thaliana
+ARATH|TAIR=AT4G32810|UniProtKB=Q8VY26	AT4G32810	Carotenoid cleavage dioxygenase 8, chloroplastic;CCD8;ortholog	Carotenoid isomerooxygenase (PTHR10543:SF24)	oxygenase(PC00177)	Arabidopsis thaliana
+ARATH|TAIR=AT4G37580|UniProtKB=Q42381	AT4G37580	Probable N-acetyltransferase HLS1;HLS1;ortholog	N-acetyltransferase HLS1-like-related (PTHR43072:SF12)	acetyltransferase(PC00038)	Arabidopsis thaliana
+ARATH|TAIR=AT3G62680|UniProtKB=Q9LZJ7	AT3G62680	Proline-rich protein 3;PRP3;ortholog	Pollen Ole e 1 allergen and extensin family protein-related (PTHR33470:SF1)		Arabidopsis thaliana
+ARATH|TAIR=AT2G46690|UniProtKB=Q9ZUZ3	AT2G46690	Auxin-responsive protein SAUR32;SAUR32;ortholog	Auxin-responsive protein SAUR32 (PTHR31374:SF29)		Arabidopsis thaliana
+ARATH|TAIR=AT5G66700|UniProtKB=Q9LVR0	AT5G66700	Homeobox-leucine zipper protein ATHB-53;ATHB-53;ortholog	Homeobox-leucine zipper protein ATHB-21-related (PTHR24326:SF281)		Arabidopsis thaliana
+ARATH|TAIR=AT1G48690|UniProtKB=Q9C737	AT1G48690	At1g48690;F11I4_13;ortholog			Arabidopsis thaliana
+ARATH|TAIR=AT2G17500|UniProtKB=Q9SHL8	AT2G17500	Protein PIN-LIKES 5;PILS5;ortholog	Protein PIN-LIKES 5-related (PTHR31651:SF3)		Arabidopsis thaliana
+ARATH|TAIR=AT3G13980|UniProtKB=Q9LVK2	AT3G13980	Protein BIG GRAIN 1-like A;At3g13980;ortholog	Protein BIG GRAIN 1-like A-related (PTHR33541:SF5)		Arabidopsis thaliana
+ARATH|TAIR=AT1G15050|UniProtKB=Q9C5X0	AT1G15050	Auxin-responsive protein IAA34;IAA34;ortholog	Auxin-responsive protein IAA32-related (PTHR31734:SF29)		Arabidopsis thaliana
+ARATH|TAIR=AT1G21410|UniProtKB=Q9LPL4	AT1G21410	F-box protein SKP2A;SKP2A;ortholog	F-box protein SKP2A-related (PTHR44673:SF1)		Arabidopsis thaliana
+ARATH|TAIR=AT1G29420|UniProtKB=Q6NMM0	AT1G29420	Auxin-responsive protein SAUR61;SAUR61;ortholog	Auxin-responsive protein SAUR61-related (PTHR31175:SF25)		Arabidopsis thaliana
+ARATH|TAIR=AT5G12050|UniProtKB=Q9LYH0	AT5G12050	Protein BIG GRAIN 1-like D;At5g12050;ortholog	Protein BIG GRAIN 1-like D (PTHR33541:SF2)		Arabidopsis thaliana
+ARATH|TAIR=AT5G18050|UniProtKB=Q9FJF7	AT5G18050	Auxin-responsive protein SAUR22;SAUR22;ortholog	Auxin-responsive protein SAUR15-related (PTHR31929:SF22)		Arabidopsis thaliana
+ARATH|TAIR=AT4G11280|UniProtKB=Q9SAR0	AT4G11280	1-aminocyclopropane-1-carboxylate synthase 6;ACS6;ortholog	1-aminocyclopropane-1-carboxylate synthase 6 (PTHR43795:SF6)	transaminase(PC00216)	Arabidopsis thaliana
+ARATH|TAIR=AT2G42580|UniProtKB=Q9SIN1	AT2G42580	Inactive TPR repeat-containing thioredoxin TTL3;TTL3;ortholog	Inactive TPR repeat-containing thioredoxin TTL3-related (PTHR22904:SF374)	chaperone(PC00072)	Arabidopsis thaliana
+ARATH|TAIR=AT4G12550|UniProtKB=Q9S7I2	AT4G12550	Putative lipid-binding protein AIR1;AIR1;ortholog	Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein-related (PTHR31731:SF14)		Arabidopsis thaliana
+ARATH|TAIR=AT5G54500|UniProtKB=Q9LSQ5	AT5G54500	NAD(P)H dehydrogenase (quinone) FQR1;FQR1;ortholog	Flavoprotein-like protein YCP4-related (PTHR30546:SF0)	oxidoreductase(PC00176)	Arabidopsis thaliana
+ARATH|TAIR=AT1G75500|UniProtKB=Q94AP3	AT1G75500	Protein WALLS ARE THIN 1;WAT1;ortholog	Protein WALLS ARE THIN 1 (PTHR31218:SF53)		Arabidopsis thaliana
+ARATH|TAIR=AT5G57740|UniProtKB=Q6NLQ8	AT5G57740	E3 ubiquitin-protein ligase XBAT32;XBAT32;ortholog	E3 ubiquitin-protein ligase XBAT32 (PTHR24128:SF12)		Arabidopsis thaliana
+ARATH|TAIR=AT2G23170|UniProtKB=O22190	AT2G23170	Indole-3-acetic acid-amido synthetase GH3.3;GH3.3;ortholog	Indole-3-acetic acid-amido synthetase GH3.2-related (PTHR31901:SF9)		Arabidopsis thaliana
+ARATH|TAIR=AT1G29460|UniProtKB=Q0WPR6	AT1G29460	Auxin-responsive protein SAUR65;SAUR65;ortholog	Auxin-responsive protein SAUR62-related (PTHR31175:SF1)		Arabidopsis thaliana
+ARATH|TAIR=AT1G29510|UniProtKB=F4I1I4	AT1G29510	Auxin-responsive protein SAUR67;SAUR67;ortholog	Auxin-responsive protein SAUR62-related (PTHR31175:SF1)		Arabidopsis thaliana
+ARATH|TAIR=AT1G53700|UniProtKB=Q9C8M5	AT1G53700	Serine/threonine-protein kinase WAG1;WAG1;ortholog	Serine/threonine-protein kinase WAG1-related (PTHR24351:SF82)	annexin(PC00050);calmodulin(PC00061);non-receptor serine/threonine protein kinase(PC00167);transfer/carrier protein(PC00219)	Arabidopsis thaliana
+ARATH|TAIR=AT1G10210|UniProtKB=Q39021	AT1G10210	Mitogen-activated protein kinase 1;MPK1;ortholog	Mitogen-activated protein kinase 7 (PTHR24055:SF10)	non-receptor serine/threonine protein kinase(PC00167)	Arabidopsis thaliana
+ARATH|TAIR=AT1G18570|UniProtKB=O49782	AT1G18570	Transcription factor MYB51;MYB51;ortholog	Transcription factor MYB122-related (PTHR10641:SF604)	DNA binding protein(PC00009);transcription factor(PC00218)	Arabidopsis thaliana
+ARATH|TAIR=AT3G16350|UniProtKB=Q84TG2	AT3G16350	At3g16350;At3g16350;ortholog	SUBFAMILY NOT NAMED (PTHR44377:SF3)		Arabidopsis thaliana
+ARATH|TAIR=AT1G29450|UniProtKB=Q0V7Z5	AT1G29450	Auxin-responsive protein SAUR64;SAUR64;ortholog	Auxin-responsive protein SAUR62-related (PTHR31175:SF1)		Arabidopsis thaliana
+ARATH|TAIR=AT2G19690|UniProtKB=Q8GZB4	AT2G19690	Phospholipase A2-beta;PLA2-BETA;ortholog	Phospholipase A2-beta-related (PTHR11716:SF47)	phospholipase(PC00186)	Arabidopsis thaliana
+ARATH|TAIR=AT5G01490|UniProtKB=Q945S5	AT5G01490	Vacuolar cation/proton exchanger 4;CAX4;ortholog	Vacuolar cation/proton exchanger 4 (PTHR31503:SF1)		Arabidopsis thaliana
+ARATH|TAIR=AT2G34650|UniProtKB=O64682	AT2G34650	Protein kinase PINOID;PID;ortholog	Protein kinase PINOID (PTHR24351:SF60)	annexin(PC00050);calmodulin(PC00061);non-receptor serine/threonine protein kinase(PC00167);transfer/carrier protein(PC00219)	Arabidopsis thaliana
+ARATH|TAIR=AT1G52830|UniProtKB=Q38824	AT1G52830	Auxin-responsive protein IAA6;IAA6;ortholog	Auxin-responsive protein IAA19-related (PTHR31734:SF87)		Arabidopsis thaliana
+ARATH|TAIR=AT5G18080|UniProtKB=Q9FK62	AT5G18080	Auxin-responsive protein SAUR24;SAUR24;ortholog	Auxin-responsive protein SAUR15-related (PTHR31929:SF22)		Arabidopsis thaliana
+ARATH|TAIR=AT1G29490|UniProtKB=Q29Q96	AT1G29490	Auxin-responsive protein SAUR68;SAUR68;ortholog	Auxin-responsive protein SAUR61-related (PTHR31175:SF25)		Arabidopsis thaliana
+ARATH|TAIR=AT5G13790|UniProtKB=Q38847	AT5G13790	Agamous-like MADS-box protein AGL15;AGL15;ortholog	Agamous-like MADS-box protein AGL15-related (PTHR11945:SF172)		Arabidopsis thaliana
+ARATH|TAIR=AT3G16420|UniProtKB=O04314	AT3G16420	PYK10-binding protein 1;PBP1;ortholog	Jacalin-like lectin domain-containing protein-related (PTHR23244:SF208)		Arabidopsis thaliana
+ARATH|TAIR=AT5G03280|UniProtKB=Q9S814	AT5G03280	Ethylene-insensitive protein 2;EIN2;ortholog	Manganese transporter SMF1 (PTHR11706:SF33)	cation transporter(PC00068)	Arabidopsis thaliana
